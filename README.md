@@ -1,5 +1,7 @@
 # Mafs
 
+> Fork until this is fixed/released https://github.com/stevenpetryk/mafs/pull/170
+
 Mafs is a set of opinionated React components for creating math visualizations.
 
 [Visit the docs →](https://mafs.dev)
